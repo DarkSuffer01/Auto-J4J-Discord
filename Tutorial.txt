@@ -1,0 +1,37 @@
+===============================================================================================================================
+WARNING!!
+Before you read the tutorial on down scroll. Make sure you installed Python 3.9 & Node.js
+To run it properly.
+
+Don't know how to install? Watch this tutorials. [Recommended]
+>> [https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe] (Python 3.9 Installer)
+>> [https://www.youtube.com/watch?v=aJ_Vfqmf1ow] [Python Setup Tutorial.]
+
+>> 1. After your done installing python, Go to the python installer again.
+>> 2. After that, Go to Modify. When you see Optional Features select it all, And click next.
+>> 3. Click Create shortcuts for installed applications, And click Add Python to environment variables. Now click install
+>> 4. When your finished, Go to the 2nd now.
+
+>> [https://www.youtube.com/watch?v=4Wq53LL4alQ] (Node.js setup tutorial)
+>> [https://nodejs.org/en/download/] (Node.js Download Link)
+
+>> Once your done all of it.
+>> Scroll down for the last Tutorial.
+>> Tutorial is made by Jotaro Kujo#5988 [Leader of JotaroNukers Discord server.]
+>> Official JotaroNukers Discord Server [https://discord.gg/u9HJGHyqhb]
+
+===============================================================================================================================
+
+
+========================================
+*  Last Tutorial To run the Auto J4J   *
+*          Don't skip this!            *
+========================================
+1. Find the name "oxi" And then right click And click edit, After that find the line 83
+2. Put your token on line 83
+4. You don't have to edit the oxi.send on line 80
+5. Copy your channel ID, And then go to line 78, And then change the Channel ID To new one that you copied.
+6. Go to line 60, And then copy your Invite Link from your Discord server, And then go back and paste the Invite link to ("")
+7. After that, You have to open the file named "run"
+8. After that you have to wait for the message to appear.
+9. Enjoy! Don't skid nigger
